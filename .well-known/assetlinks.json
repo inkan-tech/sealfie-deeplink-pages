@@ -1,0 +1,11 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "link.inkan.sealfie.beta",
+      "sha256_cert_fingerprints":
+        ["69:C6:4B:5C:1A:16:9E:AD:CB:87:0E:BA:F0:CC:15:02:30:5C:84:68:32:5F:03:D9:E5:92:60:B9:AD:8F:44:94"]
+    }
+  }
+]
